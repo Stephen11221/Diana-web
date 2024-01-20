@@ -59,14 +59,11 @@ footer {
     color: white;
     background: rgb(1, 28, 1);
 }
-.btn-1{
-    margin-left:  10px;
-}
+
 .btn-1:hover{
     background: rgba(255, 68, 0, 0.831);
 }
 .dev-img{
-    margin-left: 140px;
     width: 210px;
     border-right: 11px groove rgba(255, 68, 0, 0.631);
     height: 210px;
